@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.5025063
 color:
   saturation: 0.8088973
-  brandStrength: 1
-  rhythmicContrast: 0.4862155
+  brandStrength: 0
+  lightness: 0.9611529
   brandColors:
     - '#242F45'
     - '#869DBC'
     - '#733B54'
     - '#DC6955'
     - '#FFC062'
-  lightness: 0.9611529
+  rhythmicContrast: 0.4862155
+typography_spectrum: 0.5025063
 layout_spectrum: 0.2036341
 name: StevenDonaldsonPhotography
