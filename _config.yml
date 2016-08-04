@@ -10,6 +10,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.5025063
 color:
   saturation: 0.5037594
   brandStrength: 1
@@ -21,6 +22,5 @@ color:
     - '#73678B'
     - '#474660'
   rhythmicContrast: 0.5119048
-typography_spectrum: 0.5025063
-layout_spectrum: 0.8314536
+layout_spectrum: 0
 name: StevenDonaldsonPhotography
