@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.8088973
+  lightness: 0.9611529
+  brandStrength: 1
+  brandColors:
+    - '#242F45'
+    - '#869DBC'
+    - '#733B54'
+    - '#DC6955'
+    - '#FFC062'
+  rhythmicContrast: 0.4862155
+typography_spectrum: 0.5025063
+name: StevenDonaldsonPhotography
