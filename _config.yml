@@ -1,14 +1,26 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.5025063
 color:
   saturation: 0.8088973
-  lightness: 0.9611529
   brandStrength: 1
+  rhythmicContrast: 0.4862155
   brandColors:
     - '#242F45'
     - '#869DBC'
     - '#733B54'
     - '#DC6955'
     - '#FFC062'
-  rhythmicContrast: 0.4862155
-typography_spectrum: 0.5025063
+  lightness: 0.9611529
+layout_spectrum: 0.2036341
 name: StevenDonaldsonPhotography
