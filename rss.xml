@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[StevenDonaldsonPhotography]]></title>
         <description><![CDATA[StevenDonaldsonPhotography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/stevendonaldsonphotography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 07:19:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 28 Aug 2016 08:19:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/stevendonaldsonphotography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nauseation …]]></title>
+            <description><![CDATA[<article><h1>Nauseation …</h1><p>Nauseous means causing nausea or tummy troubles, and nauseated means feeling sick-even though the two are often used to mean the same thing. Think of this guide as the Pepto-Bismol to the upset stomach of confusable words, and read on for the definition, spelling, and usage of nauseous and nauseated.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bfa2ba940aff3f9eac86e2aaccf2b924/noop.jpg?input=https%3A%2F%2Fs3.amazonaws.com%2Fcontenthub-static%2Fblog%2Fwp-content%2Fuploads%2F2015%2F01%2FNauseous-Brains-Nauseated-Zombies.jpg"></article>]]></description>
+            <link>https://www.grammarly.com/blog/nauseated-vs-nauseous/?utm_source=grammarly&amp;utm_medium=email&amp;utm_campaign=BlogNL&amp;utm_content=NL_082716</link>
+            <guid isPermaLink="false">651ab480-51b1-44ab-a91c-da59f3f39e95</guid>
+            <pubDate>Sun, 28 Aug 2016 08:19:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This is a post.]]></title>
             <description><![CDATA[<article><h1>This is a post.</h1><p>A post with a picture. Pictures -and posts- are good. Pictures inside posts are even better.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dff12b2a-4081-40ec-afa8-b1ab3b95f212.jpg"></article>]]></description>
