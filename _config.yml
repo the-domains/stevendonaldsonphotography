@@ -11,7 +11,7 @@ color:
     - '#474660'
   rhythmicContrast: 1
 layout_spectrum: 0.8234043
-name: StevenDonaldsonPhotography
+name: FeardOfTheBeard
 collections:
   - index:
       path: /
@@ -25,3 +25,4 @@ collections:
       format: rss
       number: 10
 title: 'Photography, Technology, Writing'
+description: All the tings that interest me
