@@ -11,6 +11,10 @@ color:
     - '#474660'
   rhythmicContrast: 1
 layout_spectrum: 0.8234043
+author:
+  name: Steven Donaldson
+  email: info@stevendonaldson.co.uk
+  url: www.stevendonaldson.co.uk
 name: FeardOfTheBeard
 collections:
   - index:
