@@ -9,24 +9,24 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0.7858157374430448
-  brandStrength: 0.8007458006031811
-  rhythmicContrast: 0.3199096827302128
+  brandStrength: 1
+  lightness: 0.4461258335504681
   brandColors:
     - '#FFFFFF'
     - '#CCCCCC'
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-  lightness: 0.4461258335504681
+  rhythmicContrast: 0.3199096827302128
 typography_spectrum: 0.6744110658764839
 description: All the things that interest me
-layout_spectrum: 0.9255319
+layout_spectrum: 1
 name: FeardOfTheBeard
