@@ -1,16 +1,16 @@
-layout_spectrum: 0.5806467407383025
-typography_spectrum: 0.11651276121847332
+layout_spectrum: 0.9456125998403877
+typography_spectrum: 0.41971585573628545
 color:
-  saturation: 0.09580372250638902
-  brandStrength: 0.6701625119894743
-  lightness: 0.8502018840517849
+  saturation: 0.3995121349580586
+  brandStrength: 0.599942401284352
+  lightness: 0.8499372971709818
   brandColors:
-    - '#1C1D21'
-    - '#31353D'
-    - '#445878'
-    - '#92CDCF'
-    - '#EEEFF7'
-  rhythmicContrast: 0.4119437513872981
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
+  rhythmicContrast: 0.3200724159833044
 author:
   name: Steven Donaldson
   email: info@stevendonaldson.co.uk
