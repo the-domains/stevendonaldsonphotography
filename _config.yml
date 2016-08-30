@@ -1,32 +1,32 @@
-layout_spectrum: 0.8187336302362382
-typography_spectrum: 0.6744110658764839
-color:
-  saturation: 0.7858157374430448
-  brandStrength: 0.8007458006031811
-  lightness: 0.4461258335504681
-  brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-  rhythmicContrast: 0.3199096827302128
 author:
   name: Steven Donaldson
   email: info@stevendonaldson.co.uk
   url: www.stevendonaldson.co.uk
-name: FeardOfTheBeard
+title: 'Photography, Technology, Writing'
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: 'Photography, Technology, Writing'
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 0.7858157374430448
+  brandStrength: 0.8007458006031811
+  rhythmicContrast: 0.3199096827302128
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  lightness: 0.4461258335504681
+typography_spectrum: 0.6744110658764839
 description: All the things that interest me
+layout_spectrum: 0.9255319
+name: FeardOfTheBeard
